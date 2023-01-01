@@ -1,5 +1,5 @@
-## Olá! eu sou Rodolfo Martins 
-- 😍 Hoje trabalho com front-end 
+## Olá! Eu sou Rodolfo Martins 
+- 😍 front-end 
 - 📚 Estudando: javaScript e typeScript
 - 🕹️ Jogardor de PoE, trilogia Soul's e Elden Ring! Experiente no Sistema Daemon RPG.
 
