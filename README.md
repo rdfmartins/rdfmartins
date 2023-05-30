@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/rdfmartins">
-  <img height="125em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?rdfmartins=true"/>
+  <img height="125em" align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
   <img height="125em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdfmartins&layout=compact&langs_count=14&theme=dark"/>
 </div>
 
