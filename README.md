@@ -3,7 +3,7 @@
 - 📚 Estudando: javaScript e typeScript
 - 🕹️ Jogardor de PoE, trilogia Soul's e Elden Ring! Experiente no Sistema Daemon RPG.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdfmartins)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdfmartins&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  
 <div style="display: inline_block"><br>
