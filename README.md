@@ -41,4 +41,4 @@ Atualmente focado em desenhar e implementar arquiteturas escaláveis e resilient
 ### 🎮 Além do terminal...
 Nas horas vagas, sou sobrevivente em **Path of Exile 2**, explorador da trilogia **Souls/Elden Ring** e mestre de sistemas **Daemon RPG**.
 
-📫 [LinkedIn](https://www.linkedin.com/in/rodolfo-martins-silva/) | [E-mail](mailto:rodolfom4rtins@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/rodolfo-martins-silva/) | [E-mail](mailto:rodolfomar7ins@gmail.com)
