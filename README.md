@@ -35,7 +35,7 @@
 
 ### 📫 Conecte-se comigo :
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI](https://www.linkedin.com/in/rodolfo-martins-silva/">
+  <a href="https://www.linkedin.com/in/rodolfo-martins-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rodolfom4rtins@gmail.com">
