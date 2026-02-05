@@ -3,18 +3,7 @@
 - 📚 Estudando: javaScript e typeScript
 - 🕹️ Jogardor de PoE, trilogia Soul's e Elden Ring! Experiente no Sistema Daemon RPG.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdfmartins&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rdf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rdf-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rdf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rdf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rdf-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Rdf-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-</div>
- 
+
 ##
   
 <div>
