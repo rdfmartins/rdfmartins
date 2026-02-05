@@ -1,44 +1,44 @@
-## Olá! Eu sou Rodolfo Martins 
-- 😍 front-end
-- 📚 Estudando: javaScript e typeScript
-- 🕹️ Jogardor de PoE, trilogia Soul's e Elden Ring! Experiente no Sistema Daemon RPG.
+# Rodolfo Martins | Cloud & DevOps Engineer ☁️ 
 
+> Transformando infraestrutura em código e desafios em soluções escaláveis.
 
-##
-  
-<div>
-  <a href="https://instagram.com/b0nquers" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:bonquers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodolfo-martins-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/Rodolf0Martins" target="_blank"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter" target="_blank"></a>
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
+---
 
+### 🛠 Tech Stack
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Cloud** | Amazon Web Services (EC2, S3, RDS, Lambda, IAM, VPC) |
+| **IaC** | Terraform, CloudFormation |
+| **Containers** | Kubernetes (EKS), Docker, Helm |
+| **Scripting** | Python (Boto3), Bash |
+| **CI/CD** | GitHub Actions, GitLab CI |
 
-# Olá! Eu sou Rodolfo Martins ☁️ 🛠️
+### 📈 Cloud Journey & Foco Atual
+* 🏗️ **Infraestrutura:** Focado em criar ambientes resilientes e seguros utilizando **Terraform**.
+* ☸️ **Orquestração:** Gerenciando clusters **Kubernetes** e deploy de microserviços.
+* 🤖 **Automação:** Desenvolvendo scripts em **Python** para otimização de tarefas operacionais em nuvem.
+* 🎓 **Certificações:** Preparando para AWS Certified Solutions Architect.
 
-**Cloud Engineer | DevOps Enthusiast | AWS & Infrastructure as Code**
-
-Atualmente focado em desenhar e implementar arquiteturas escaláveis e resilientes na nuvem. Apaixonado por automação, cultura DevOps e resolução de problemas complexos.
+### 🎮 Além do código
+* **Gaming:** Entusiasta de Teoria de Builds em **Path of Exile 2** e explorador de mundos em **Elden Ring**.
+* **Hobbies:** Mestre de RPG (Sistema Daemon) e entusiasta de hardware.
 
 ---
 
-### 🛠️ No que estou trabalhando hoje:
-* ☁️ **Cloud:** Especializando em **Amazon Web Services (AWS)**.
-* 🏗️ **IaC:** Construindo infraestrutura reprodutível com **Terraform**.
-* 🐳 **Containers:** Orquestração com **Kubernetes** e **Docker**.
-* 🤖 **CI/CD:** Automatizando pipelines de entrega contínua.
-
-### 🧪 Tech Stack & Ferramentas:
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
----
-
-### 🎮 Além do terminal...
-Nas horas vagas, sou sobrevivente em **Path of Exile 2**, explorador da trilogia **Souls/Elden Ring** e mestre de sistemas **Daemon RPG**.
-
-📫 [LinkedIn](https://www.linkedin.com/in/rodolfo-martins-silva/) | [E-mail](mailto:rodolfomar7ins@gmail.com)
+### 📫 Conecte-se comigo :
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU_USER_AQUI](https://www.linkedin.com/in/rodolfo-martins-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rodolfom4rtins@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
