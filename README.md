@@ -17,13 +17,13 @@
 | :--- | :--- |
 | **Cloud** | Amazon Web Services (EC2, S3, RDS, Lambda, IAM, VPC) |
 | **IaC** | Terraform, CloudFormation |
-| **Containers** | Kubernetes (EKS), Docker, Helm |
-| **Scripting** | Python (Boto3), Bash |
-| **CI/CD** | GitHub Actions, GitLab CI |
+| **Containers** | Docker |
+| **Scripting** | Python , Bash |
+| **CI/CD** | GitHub Actions,|
 
 ### 📈 Cloud Journey & Foco Atual
 * 🏗️ **Infraestrutura:** Focado em criar ambientes resilientes e seguros utilizando **Terraform**.
-* ☸️ **Orquestração:** Gerenciando clusters **Kubernetes** e deploy de microserviços.
+* ☸️ **Orquestração:** Gerenciando clusters e deploy de microserviços.
 * 🤖 **Automação:** Desenvolvendo scripts em **Python** para otimização de tarefas operacionais em nuvem.
 * 🎓 **Certificações:** Preparando para AWS Certified Solutions Architect.
 
@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/rodolfo-martins-silva/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rodolfom4rtins@gmail.com">
+  <a href="mailto:rodolfomar7ins@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
